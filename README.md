@@ -8,8 +8,8 @@ Each block has its own testing file.
 - The instruction set size is 28.
 - Additionally, Booth's multipler and divider using restoring algorithm. Hence, there are 30 instructions.
 - It is a RISC based Instruction Set Architecture.
-- Registers - 32
 - Address bit - 16
+- Registers - 32
 - Instruction format: R type
 
 ## Building Components
